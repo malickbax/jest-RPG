@@ -6,7 +6,7 @@ Using **Test-Driven Development (TDD)** and **Object-Oriented Programming (OOP)*
 - Please clone this repository and install the required packages: Inquirer and Jest. Once installed, run the app.js in CLI to start the application.  
 
 ## Tests
-- All test codes are located under the "__test__" folder.
+- All test codes are located under the "__tests__" folder.
 
 ## Questions
 **Malick Ba**
